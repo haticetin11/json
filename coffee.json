@@ -2,29 +2,29 @@
   {
     'name': 'Latte',
     'image': 'https://images.unsplash.com/photo-1570968915860-54d5c301fa9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80',
-  'price': 30.00,
+  'price': 30.00
 
   },
   {
     'name': 'Mocha',
     'image': 'https://images.unsplash.com/photo-1513244608388-32427255be63?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG1vY2hhfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60',
-  'price': 30.00,
+  'price': 30.00
 
   },
   {
     'name': 'Filter coffee',
     'image': 'https://images.unsplash.com/photo-1522120260484-0c13c92f4aa1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGZpbHRlciUyMGNvZmZlfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60',
-  'price': 20.00,
+  'price': 20.00
 
   },{
     'name': 'Bubble tea',
     'image': 'https://images.unsplash.com/photo-1558857563-b371033873b8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YnViYmxlJTIwdGVhfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60',
-  'price': 45.00,
+  'price': 45.00
 
   },{
     'name': 'Lemonade',
     'image': 'https://images.unsplash.com/photo-1623084918757-56d74eb2c650?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGxlbW9uYWRlfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60',
-  'price': 40.00,
+  'price': 40.00
 
   }
 ]
